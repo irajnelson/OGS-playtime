@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+!app.py
+!calculate_ogs_playtime.py
+!requirements.txt
+!README.md
